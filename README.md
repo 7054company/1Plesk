@@ -1,6 +1,6 @@
 # Plesk 
 
-Help to spread below link of 100% free plesk license ..
+ 100% free plesk license 
 # Feature
 *No restriction
 
