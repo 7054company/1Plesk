@@ -14,7 +14,7 @@
 
  ♥Made by developers for the developers and hackers
 
-#:- Plesk license is here  ♥
+# ♥  Plesk license is here 
 
 ♥ https://github.com/7054company/plesk-unlimited-license
 
