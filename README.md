@@ -2,13 +2,13 @@
 
  100% free plesk license 
 # Feature
-*No restriction
+:> No restriction
 
-*No payment
+:> No payment
 
-*No register
+:> No register
 
-*100% secure by 7ea
+100% secure by 7ea
 
 #:- Plesk license is here  ♥
 
