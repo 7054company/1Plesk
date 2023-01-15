@@ -1,5 +1,13 @@
 # Plesk 
 
+Help to spread below link of 100% free plesk license ..
+#Feature
+*No restriction
+*No ip required
+*No payment
+*No register
+*No waiting
+*100% secure by 7ea
 #:- Plesk license is here  ♥
 
 ♥ https://github.com/7054company/plesk-unlimited-license
