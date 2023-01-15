@@ -1,16 +1,12 @@
 # Plesk 
 
 Help to spread below link of 100% free plesk license ..
-#Feature
+# Feature
 *No restriction
-
-*No ip required
 
 *No payment
 
 *No register
-
-*No waiting
 
 *100% secure by 7ea
 
