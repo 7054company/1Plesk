@@ -1,7 +1,7 @@
 # Plesk 
 
  100% free plesk license 
-# Feature
+# Features
 :> No restriction
 
 :> No payment
