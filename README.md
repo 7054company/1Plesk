@@ -1,6 +1,6 @@
-# Plesk 
+# ea7Plesk 
 
- 100% free plesk license 
+ 100% free ea7plesk license 
  
  Link is below , click now 
 # Features
@@ -14,7 +14,7 @@
 
  ♥Made by developers for the developers and hackers
 
-# ♥  Plesk license is here 
+# ♥  ea7Plesk license is here 
 
 ♥ https://github.com/7054company/plesk-unlimited-license
 
